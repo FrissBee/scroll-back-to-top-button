@@ -8,11 +8,7 @@ The button is easy to integrate and can be designed according to your own ideas.
 
 ### Preview
 
-1. Clone or download the repo.
-2. Open the `index.html` file.
-3. See all the possibilities and results in the subpages.
-4. Resize the browser window to see the responsive design.
-5. **Go to the files for more information and to see the source code.**
+If you first want to see if the scroll back to the top button is what you are looking for, [you can see it here](https://back-to-top.frissbee.de/).
 
 ### Implementation
 
@@ -21,6 +17,8 @@ The button is easy to integrate and can be designed according to your own ideas.
 3. For the design use the attributes
 
 The `<back-to-top></back-to-top>` HTML tag can be inserted anywhere within the `body` tag.
+
+See the examples and comments in the files for more information.
 
 ## Example of implementation with the default settings
 
